@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EhMagnet
-- 👀 I’m interested in everything to do with Game Creation, Modding, Game Engines and Software Developement!
-- 🌱 I’m currently learning to code in C++, Java, Python and whatever the world throws at me!
+- 👀 I’m interested in Minecraft Plugin Development / Minestom Development, Software Security & Development
+- 🌱 I’m currently learning to code in C++, Java, Kotlin, Python and whatever the world throws at me!
 - 📫 You can reach me on discord at the username ehmagnet
 
 <!---
